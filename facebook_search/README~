@@ -1,0 +1,2 @@
+facebook_search is a application for search a keyword from facebook. The results are storing to elastic search database. 
+I am using facebook graph api for performing facebook search. You need to install elastic search before performing the operations. 
